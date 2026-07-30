@@ -80,9 +80,10 @@ alt="Profile Image"/>
 
 # 🔥 GitHub Streak
 
-<img
+<img src="https://streak-stats.demolab.com?user=ShreyasShet">
+<!-- <img
 src="https://streak-stats.demolab.com?user=ShreyasShet&theme=transparent&border_radius=12&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideNums=EF93C4&currStreakNum=FF69B4&dates=F8BBD0&border=EF93C4"
-/>
+/> -->
 
 </div>
 
