@@ -121,7 +121,7 @@ Example output path:
 https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/blob/output/github-contribution-grid-snake.svg
 -->
 
-<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/ShreyasShet/ShreyasShet/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
 
@@ -131,11 +131,11 @@ https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/blob/output/github-contributi
 
 # 🌐 Connect With Me
 
-<a href="[YOUR_LINKEDIN]">
+<a href="www.linkedin.com/in/shreyas-g-shet">
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:shetshreyas2005@gmail.com">
 <img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
